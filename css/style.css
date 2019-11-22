@@ -6,7 +6,7 @@ main {
     display: flex;
     height: 90px;
     color: white;
-    background-color: #43b49e;
+    background-color: #39c;
 }
 
 .header_title {
@@ -33,7 +33,7 @@ main {
 
 .main_header {
     height: 720px;
-    background-color: #43af99;
+    background-color: lightblue;
 }
 
 .main_title {
